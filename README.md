@@ -2,7 +2,9 @@
 
 https://github.com/user-attachments/assets/70dd9659-596d-4aff-8af1-8dd2c8cdbd11
 
-## Slide Text
+# Slide Text
+
+![Screenshot (256)](https://github.com/user-attachments/assets/29ec3e39-5bb3-4fa1-a841-228fd8d5b1af)
 
 ```cpp
 #include <Wire.h>
@@ -32,7 +34,7 @@ void loop() {
 
 ---
 
-## Normal Text
+# Normal Text
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e649d1b7-9742-471b-b64e-d0848bd303ad" alt="Image 1" width="46%" style="margin-right: 10px;"/>
